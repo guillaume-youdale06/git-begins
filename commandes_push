@@ -2,3 +2,4 @@ git clone https://github.com/guillaume-youdale06/git-begins
 git push
 git push guillaume-youdale main
 git push -u guillaume-youdale main
+git pull
